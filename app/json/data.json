@@ -1,0 +1,1014 @@
+{
+  "SalesReportingMonth": [
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "02",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "3.501",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "0.000",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "03",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "5.102",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "0.700",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "1.111",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "04",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "4.125",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "05",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "06",
+      "year": "2016",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "8",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "0.000",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "07",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "08",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "7.800",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "09",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "0.3",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "5.102",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "10",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "4.125",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "0.2",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "0.5",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "11",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "12",
+      "year": "2016",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "6.671",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "4.125",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "01",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "02",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "3.501",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "4.650",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "03",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "4.125",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "04",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "05",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "06",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "4.125",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "0.821",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "07",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "5.102",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "08",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "0.821",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "2.215",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "09",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "10",
+      "year": "2017",
+      "salesVolume": "0.821",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "2.551",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "1.510",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "11",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "3.651",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "12",
+      "year": "2017",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "4.1",
+      "invoiceValueNet": "104.04",
+      "category": "Beer"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "1.758",
+      "invoiceValueNet": "104.04",
+      "category": "Wine"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Cider"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Soft drink"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Water"
+    },
+    {
+      "month": "01",
+      "year": "2018",
+      "salesVolume": "1.554",
+      "invoiceValueNet": "90.7",
+      "category": "Energy drink red"
+    }
+  ],
+  "status": "OK",
+  "message": null
+}
